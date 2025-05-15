@@ -1,0 +1,4 @@
+basically a toy port of Zachary Peterson's work: https://github.com/zhayx/compact-proofs-of-retrievability
+which itself is an implementation of: https://eprint.iacr.org/2008/073
+
+!!! not ready for use in production !!!
